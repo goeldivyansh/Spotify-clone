@@ -1,5 +1,8 @@
 # Spotify-clone
 
+This project is referenced form @WebDevSimplified
+  Video Link: https://www.youtube.com/watch?v=Xcet6msf3eE
+
 In this project, 
   1. Any song can be searched which is available on spotify. 
   2. A song can be played. 
